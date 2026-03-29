@@ -10,7 +10,7 @@ I'm a passionate developer focused on building innovative solutions and contribu
 - **Areas of Interest**: Full-Stack Development, Machine Learning, Cloud Computing
 
 ## 📊 GitHub Stats
-![Ravi's GitHub stats](https://github-profile-trophy.vercel.app/?username=RaviGit18&theme=radical&no-frame=true&margin-w=15)
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaviGit18&show_icons=true&theme=radical&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RaviGit18&theme=radical&hide_border=true)
 
 ## 📫 How to Reach Me
