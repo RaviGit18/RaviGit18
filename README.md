@@ -14,7 +14,7 @@ I'm a passionate developer focused on building innovative solutions and contribu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviGit18&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [ravi-ranjan-csm](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [ravi-ranjan-tech](https://linkedin.com/in/yourprofile)
 
 ## 🤝 Let's Connect!
 I'm always open to collaborating on interesting projects and learning from fellow developers. Feel free to reach out!
